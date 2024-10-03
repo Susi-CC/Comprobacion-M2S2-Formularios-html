@@ -1,4 +1,5 @@
-# Comprobación de la sesión 2 "Formularios en HTML" del bootcamp "Desarrollo de aplicaciones Full Stack JavaScript" de Edutecno.
+# Comprobación del módulo 2, sesión 2: "Formularios en HTML"
+# Bootcamp "Desarrollo de aplicaciones Full Stack JavaScript" de Edutecno.
 
 El trabajo consistía en crear un formulario para solicitar hora en un centro médico.
 
